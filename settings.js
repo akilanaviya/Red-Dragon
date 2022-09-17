@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤I am alive now😏
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -30,9 +30,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+94716772179'] // owner number
-global.ownername = "𝐍𝐀𝐕𝐈 𝐁𝐁𝐇☘️᭕" // owner name
+global.ownername = "𝗮𝗸𝗶 𝗯𝗮𝗯𝗮𝗵☘️᭕" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub:NAVIYA" // github or insta name
+global.socialm = "GitHub:𝗮𝗸𝗶𝘆𝗮💖" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -47,16 +47,16 @@ global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94716772179']
-global.ownertag = '+94716772179' //your tag number
-global.botname = '🦄𝐍𝐀𝐕𝐈 𝐁𝐀𝐁𝐀𝐇☘️' //ur bot name
+global.owner = ['+94754802931']
+global.ownertag = '+94754802931' //your tag number
+global.botname = '🦄𝗮𝗸𝗶 𝗯𝗮𝗯𝗮☘️' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "🦄𝐍𝐀𝐕𝐈 𝐁𝐀𝐁𝐀𝐇☘️" // sticker author
+global.author = "🦄𝗮𝗸𝗶 𝗯𝗮𝗯𝗮☘️" // sticker author
 global.dragonemoji = '💖' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+94716772179'] //ur premium numbers
+global.premium = ['+94754802931'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
