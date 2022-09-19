@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😏
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `👻I am alive now💔
+👻How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = true //auto tying in gc (true to on, false to off)
@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94716772179'] // owner number
-global.ownername = "𝚘𝚜𝚑𝚊𝚍𝚊🍂𝚗𝚊𝚠𝚊𝚖𝚒𝚗𝚊☘️᭕" // owner name
+global.vcardowner = ['+94767383752'] // owner number
+global.ownername = "𝚔𝚒𝚗𝚐🍂𝚗𝚊𝚟𝚒𝚢𝚊᭕" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub:𝙽𝙰𝚅𝙸𝚈𝙰🍂" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -50,7 +50,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 global.owner = ['+94767383752']
 global.ownertag = '+94767383752' //your tag number
 global.botname = '𝙽𝙰𝚅𝙸𝚈𝙰🍂💔' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
+global.packname = "𝚗𝚊𝚟𝚒𝚢𝚊 Sticker" // sticker packname
 global.author = "𝙽𝙰𝚅𝙸𝚈𝙰🍂💔" // sticker author
 global.dragonemoji = '💔' // Menu emoji
 global.footer = '[𝙽𝙰𝚅𝙸 𝙱𝙰𝙱𝙰𝙷🍂💔]' //
