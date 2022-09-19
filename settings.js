@@ -53,7 +53,7 @@ global.botname = '𝙽𝙰𝚅𝙸𝚈𝙰🍂💔' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙽𝙰𝚅𝙸𝚈𝙰🍂💔" // sticker author
 global.dragonemoji = '💔' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[𝙽𝙰𝚅𝙸 𝙱𝙰𝙱𝙰𝙷🍂💔]' //
 
 //database
 global.premium = ['+94767383752'] //ur premium numbers
